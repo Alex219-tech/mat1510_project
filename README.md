@@ -1,7 +1,7 @@
 # mat1510_project
 
 This is a review of the paper "An Empirical Study of Example Forgetting during Deep Neural Network Learning" 
-by Mariya Toneva, Alessandro Sordoni, Remi Tachet des Combes, Adam Trischler, Yoshua Bengio, Geoffrey J. Gordon. ()
+by Mariya Toneva, Alessandro Sordoni, Remi Tachet des Combes, Adam Trischler, Yoshua Bengio, Geoffrey J. Gordon. (Toneva et.al, 2019)
 
 I tried two novel experiments based on the results of the paper:
 1) train the same network on modified MNIST (cutting out a 8x8 pixel square in each of the quardrant in each image) 
